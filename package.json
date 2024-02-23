@@ -1,5 +1,5 @@
 {
-  "name": "API",
+  "name": "api",
   "version": "1.0.0",
   "main": "index.js",
   "author": "jwd",
@@ -8,8 +8,11 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
-
   "scripts": {
-    "start": "ts-node index.ts"
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^22.2.0"
   }
 }
