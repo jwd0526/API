@@ -1,9 +1,10 @@
 import puppeteer from "puppeteer";
 import fs from "fs";
+import { convertCsvToJson } from "./csvToJson";
 
 const main = async () => {
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
   });
 
   const website = await browser.newPage();
@@ -37,6 +38,7 @@ const main = async () => {
     return Array.from(elements).map((element) => element.textContent);
   });
 
+  rowData.unshift({ team: "Team", spread: "Spread", line: "Moneyline" });
   for (let j = 0; j < rowNames.length; j++) {
     rowData.push({
       team: rowNames[j],
@@ -49,6 +51,7 @@ const main = async () => {
     .map(({ team, spread, line }) => `${team},${spread},${line}`)
     .join("\n");
   fs.writeFileSync("odds.csv", csvData);
+  convertCsvToJson("odds.csv", "odds.json");
 
   browser.close();
 };

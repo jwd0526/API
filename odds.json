@@ -1,0 +1,102 @@
+[
+  {
+    "Team": "Toronto",
+    "Spread": "+6.5",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Atlanta",
+    "Spread": "-6.5",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Cleveland",
+    "Spread": "-4.5",
+    "Moneyline": "-106"
+  },
+  {
+    "Team": "Philadelphia",
+    "Spread": "+4.5",
+    "Moneyline": "-114"
+  },
+  {
+    "Team": "Phoenix",
+    "Spread": "-3.5",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Houston",
+    "Spread": "+3.5",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Miami",
+    "Spread": "+3",
+    "Moneyline": "-112"
+  },
+  {
+    "Team": "New Orleans",
+    "Spread": "-3",
+    "Moneyline": "-108"
+  },
+  {
+    "Team": "L.A. Clippers",
+    "Spread": "-10",
+    "Moneyline": "-108"
+  },
+  {
+    "Team": "Memphis",
+    "Spread": "+10",
+    "Moneyline": "-112"
+  },
+  {
+    "Team": "Washington",
+    "Spread": "+15",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Oklahoma City",
+    "Spread": "-15",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Denver",
+    "Spread": "-9",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Portland",
+    "Spread": "+9",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Charlotte",
+    "Spread": "+14",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Golden State",
+    "Spread": "-14",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Milwaukee",
+    "Spread": "+4.5",
+    "Moneyline": "-108"
+  },
+  {
+    "Team": "Minnesota",
+    "Spread": "-4.5",
+    "Moneyline": "-112"
+  },
+  {
+    "Team": "San Antonio",
+    "Spread": "+8.5",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "L.A. Lakers",
+    "Spread": "-8.5",
+    "Moneyline": "-110"
+  }
+]
