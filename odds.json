@@ -1,32 +1,42 @@
 [
   {
-    "Team": "Orlando",
-    "Spread": "-7",
+    "Team": "Toronto",
+    "Spread": "+6.5",
+    "Moneyline": "-110"
+  },
+  {
+    "Team": "Indiana",
+    "Spread": "-6.5",
     "Moneyline": "-110"
   },
   {
     "Team": "Detroit",
-    "Spread": "+7",
-    "Moneyline": "-110"
-  },
-  {
-    "Team": "Boston",
-    "Spread": "-7",
+    "Spread": "+11.5",
     "Moneyline": "-110"
   },
   {
     "Team": "New York",
-    "Spread": "+7",
+    "Spread": "-11.5",
     "Moneyline": "-110"
   },
   {
     "Team": "Brooklyn",
-    "Spread": "+8",
+    "Spread": "-1",
     "Moneyline": "-110"
   },
   {
-    "Team": "Minnesota",
-    "Spread": "-8",
+    "Team": "Memphis",
+    "Spread": "+1",
     "Moneyline": "-110"
+  },
+  {
+    "Team": "Miami",
+    "Spread": "+7.5",
+    "Moneyline": "-112"
+  },
+  {
+    "Team": "Sacramento",
+    "Spread": "-7.5",
+    "Moneyline": "-108"
   }
 ]
